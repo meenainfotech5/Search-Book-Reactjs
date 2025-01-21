@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+
+# Online Book Search 
+
+
++ An Online Book Search App Project that uses an API can allows users to search for books, view information about them, and manage their bookshelves.
+
++ Users can search for books by title, category and author name.
+
++ Responsive and user friendly.
+
++ Allows user to read the preview of the book.
+
++ Technologies Used: HTML, CSS, and ReactJs.
+
+
+<br>
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
